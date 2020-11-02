@@ -22,4 +22,4 @@ Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, se
 
 # Resolução
 
-Você pode conferir a resolução do exercício [aqui](https://github.com/vttsouza/desafio-javascript-dio-contagem-cedulas/blob/main/main.js)
+Você pode conferir a resolução do exercício [aqui](https://github.com/vttsouza/desafio-javascript-dio-contagem-cedulas/blob/main/main.js).
